@@ -1,18 +1,19 @@
 body{
-    background-image: url(img/fondo-pagina.jpg);
+    background-image: url(img/escuela-tecnica-brandsen.jpg);
     background-size: cover;
 } 
 h1{
     font-family: cursive;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
 section{
     font-size: 20px;
-    background: #b7abfd59;
+    background: #4f4f52cf;
     margin: 20px;
     padding: 20px;
+    font-family: cursive;
 }
 
 a{
