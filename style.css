@@ -1,0 +1,28 @@
+body{
+    background-image: url(img/escuela-tecnica-brandsen.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+section{
+    font-size: 20px;
+    background: #4f4f52cf;
+    margin: 20px;
+    padding: 20px;
+    font-family: cursive;
+}
+
+a{
+    padding: 10px;
+    background: gray;
+    color: white;
+    text-decoration: none;
+}
